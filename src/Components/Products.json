@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Hand Wash - Aloe Vera",
+    "details": "Gentle on hands, tough on germs. Fresh aloe vera fragrance.",
+    "price": 199,
+    "images": [
+      "https://raw.githubusercontent.com/mohdgulfammirza/saafsathi/main/aloeverahandwash.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hand Wash - Aqua Fragrance",
+    "details": "Gentle on hands, tough on germs. Fresh aloe vera fragrance.",
+    "price": 249,
+    "images": [
+      "https://raw.githubusercontent.com/mohdgulfammirza/saafsathi/main/aquahandwash.webp"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Detergent Liquid",
+    "details": "Best quality cleaing liquied",
+    "price": 179,
+    "images": [
+      "https://raw.githubusercontent.com/mohdgulfammirza/saafsathi/main/detargentliquied.webp"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Glass Cleaner",
+    "details": "Gentle on hands, tough on germs. Fresh aloe vera fragrance.",
+    "price": 179,
+    "images": [
+      "https://raw.githubusercontent.com/mohdgulfammirza/saafsathi/main/glasscleaner.webp"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Hand Wash - Orange",
+    "details": "Streak-free shine for windows, mirrors, and glass surfaces.",
+    "price": 179,
+    "images": [
+      "https://raw.githubusercontent.com/mohdgulfammirza/saafsathi/main/orangehandwash.webp"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Hand Wash - Rose",
+    "details": "Gentle on hands, tough on germs. Fresh aloe vera fragrance.",
+    "price": 179,
+    "images": [
+      "https://raw.githubusercontent.com/mohdgulfammirza/saafsathi/main/rosehandwash.webp"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Toilet Cleaner",
+    "details": "Powerful toilet clener try now",
+    "price": 179,
+    "images": [
+      "https://raw.githubusercontent.com/mohdgulfammirza/saafsathi/main/toiletclener.webp"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "White Fyenl",
+    "details": "White Fyenl in the range best quality",
+    "price": 179,
+    "images": [
+      "https://raw.githubusercontent.com/mohdgulfammirza/saafsathi/main/whitephenyl.webp"
+    ]
+  }
+]
